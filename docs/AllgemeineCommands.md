@@ -3,7 +3,7 @@
 
 - Timeout (Default):
 
--- Befehl: `/timeout username`
+- - Befehl: `/timeout username`
 
 -- Dieses Kommando erlaubt es dir jemanden temporär für 10 Minuten vom Chat zu bannen.
 
