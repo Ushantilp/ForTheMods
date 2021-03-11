@@ -1,6 +1,5 @@
 .. toctree::
-   :maxdepth: 2
-   :hidden:
    :caption: ForTheMods
+   :name: ForTheMods
 
-   /Einleitung.md
+   Einleitung
